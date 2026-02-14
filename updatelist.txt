@@ -4,4 +4,5 @@ plugins/Nog/sets/carddata.txt	https://www.dropbox.com/scl/fi/asndr7e5zil3kpp36fl
 plugins/Nog/sets/setimages/general/cardback.PNG	https://www.dropbox.com/scl/fi/at7aeoipwtxl8b6zv7e1o/cardback.png?rlkey=5zhf9lc30sieeimqviis0c48u&st=ib8gztnt&dl=0	-236396
 
 CardGeneralURLs:
-https://www.dropbox.com/scl/fo/3cykf51w7cvwx6w84kydj/AEzg6bb9_jDzGmhWBZ9tPSQ?rlkey=9brugugv2m69enzwsy5d0477s&st=buvi53iy&dl=0
+https://www.dropbox.com/scl/fo/3cykf51w7cvwx6w84kydj/AEzg6bb9_jDzGmhWBZ9tPSQ?rlkey=gncfaaoayegxsxev8ktefmf3f&st=klogf9js&dl=0
+
