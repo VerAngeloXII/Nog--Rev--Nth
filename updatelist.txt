@@ -3,4 +3,4 @@ plugins/Nog/plugininfo.txt	https://www.dropbox.com/scl/fi/jrmtoogzg1dctwf713opk/
 plugins/Nog/sets/carddata.txt	https://www.dropbox.com/scl/fi/asndr7e5zil3kpp36fl8b/carddata.txt?rlkey=nu0qqqx1eqb7ldt2hdkvlryt0&st=g8qdaec7&dl=0	9524739
 plugins/Nog/sets/setimages/general/cardback.PNG	https://www.dropbox.com/scl/fi/at7aeoipwtxl8b6zv7e1o/cardback.png?rlkey=5zhf9lc30sieeimqviis0c48u&st=ib8gztnt&dl=0	-236396
 CardGeneralURLs:
-https://drive.google.com/drive/folders/1YY39xYSNWVMQptiGjw_FGLJ1Yy400poU?usp=drive_link
+https://www.dropbox.com/scl/fo/3cykf51w7cvwx6w84kydj/AEzg6bb9_jDzGmhWBZ9tPSQ?rlkey=9brugugv2m69enzwsy5d0477s&st=buvi53iy&dl=0
