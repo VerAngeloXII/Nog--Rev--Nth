@@ -1,0 +1,9 @@
+<2.8>
+
+<lastupdateYYMMDD>260210</lastupdateYYMMDD>
+<quality>HIGH</quality>
+<versionurl>
+<updateurl>
+<message>Ree</message>
+
+</version>
